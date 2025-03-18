@@ -54,18 +54,7 @@ for i := 0; i < 10; i += 1 {
 }
 ```
 
-## Installation & Setup
-1. Clone this repository:
-   ```sh
-   git clone https://github.com/your-repo/minigo-compiler.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd minigo-compiler
-   ```
-3. Follow the build instructions to compile and run the MiniGo compiler.
-
-## How to Use
+## How to Run
 - Change current directory to MiniGoAST/src where there is file run.py
 - Type: python run.py gen 
   + Then type: python run.py test LexerSuite
