@@ -1,5 +1,5 @@
 # MiniGo Compiler
-
+This project is part of the *Principles of Programming Languages (CO3005)* course at *Ho Chi Minh City University of Technology*.
 ## Overview
 MiniGo is a simplified version of the Go programming language, designed for students to practice compiler development. It retains the core concepts of Go, such as basic data types, structs, and interfaces, while omitting more complex features like goroutines, channels, and the extensive standard library. The goal of MiniGo is to provide a manageable subset of Go that allows students to focus on fundamental concepts of programming language implementation, including:
 
@@ -60,8 +60,5 @@ for i := 0; i < 10; i += 1 {
   + Then type: python run.py test LexerSuite
   + Then type: python run.py test ParserSuite
   + Then type: python run.py test ASTGenSuite
-
-## Acknowledgments
-This project is part of the *Principles of Programming Languages (CO3005)* course at *Ho Chi Minh City University of Technology*.
 
 
