@@ -15,7 +15,7 @@ By working with MiniGo, students gain hands-on experience in implementing a prog
 - **Control Structures:** Includes if-else statements and for loops with different forms (basic condition, initialization, and range-based iteration).
 - **Functions & Methods:** Supports function and method declarations with optional return types.
 - **Operators:** Arithmetic, relational, and logical operators for basic computations.
-- **Built-in Functions:** Provides essential I/O functions such as `getInt()`, `putString()`, and `putLn()`.
+- **Built-in Functions:** Provides essential I/O functions.
 
 ## MiniGo Syntax Overview
 ### Variable Declaration
